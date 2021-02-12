@@ -1,0 +1,102 @@
+.ufff{
+    display: block;
+    padding-top: 35px;
+}
+
+.uff {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    margin-right: 50px;
+    
+}
+.u2 {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+}
+
+.uuu2 {
+    margin-left: 21px;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: silver;
+}
+
+fieldset {
+    margin-top: 50px;
+    width: 350px;
+    height: 400px;
+}
+
+.u1 {
+    width: 100px;
+    height: 50px;
+}
+
+.uuu1 {
+    margin-left: 21px;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: silver;
+}
+
+.uuu3 {
+    margin-left: 21px;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: silver;
+}
+
+.u3 {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+}
+
+.u4 {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+}
+
+.uuu4 {
+    margin-left: 21px;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: silver;
+}
+
+.btn1 {
+    margin-top: 10px;
+    width: 350px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: silver;
+    color: white;
+    background-color: rgb(116, 116, 151)
+}
+
+legend {
+    background-color: darkgrey;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.uu1 {
+    font-size: 18px;
+}
+
+.uu2 {
+    font-size: 18px;
+}
+
+.uu3 {
+    font-size: 18px;
+}
+
+.uu4 {
+    font-size: 18px;
+}

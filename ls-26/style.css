@@ -1,0 +1,24 @@
+.dv {
+    width: 1170px;
+    height: 214px;
+    background-color: blue;
+    margin-left: 54px;
+    margin-top: 20px;
+}
+
+.dv2 {
+    display: block;
+    width: 203px;
+    height: 427px;
+    background-color: red;
+    margin-left: 52px;
+    margin-top: 13px;
+}
+
+.f1 {
+    width: 947px;
+    height: 427px;
+    background-color: lime;
+    margin-left: 224px;
+    margin-top: 2px;
+}
