@@ -1,0 +1,10 @@
+.a{
+    box-shadow: 0 0 5px 5px yellow;
+    position: relative;
+    left: 35px;
+}
+input{
+    box-shadow: 0 0 5px 5px yellow;
+    position: relative;
+    left: 10px;
+}

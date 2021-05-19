@@ -1,0 +1,19 @@
+.head {
+    background-color: red;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.sidybar {
+    background-color: blue;
+    height: 500px;
+    margin-bottom: 10px;
+}
+.content {
+    background-color: green;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.footer {
+    background-color: yellowgreen;
+    height: 200px;
+}

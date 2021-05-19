@@ -1,0 +1,26 @@
+.a{
+    display: flex;
+}
+.k{
+    background-color: aqua;
+    width: 650px;
+    height: 350px;
+    margin :100px 100px ;
+    display: flex;
+}
+img{
+    height: 350px;
+    width: 350px;
+    display: block ;
+    position: relative;
+    top: 44px;
+}
+.t{
+    width: 550px;
+    height: 300px;
+    position: relative;
+    left: 20px;
+}
+a{
+    color: red;
+}
