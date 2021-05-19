@@ -1,0 +1,27 @@
+.fab{
+    color: white;
+    font-size: 100px;
+}
+body{
+    background-color: blueviolet;
+}
+.a {
+    border: 5px solid red ;
+    font-family: 'Playfair Display';
+    color: #605756;
+    margin-left: 40% ;
+    justify-content: center;
+    width: 300px;
+    height: 400px;
+    background-color: darkgrey;
+}
+.button:link {
+    color: blue
+}
+input:link {
+    background-color: brown;
+}
+input {
+    height: 30px;
+    width: 290px;
+}
